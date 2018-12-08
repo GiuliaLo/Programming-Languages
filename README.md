@@ -2,7 +2,7 @@
 Homework from my programming languages class at Westminster College
 
 
-Group work from the Programming Languages class. Description is in hw4.pdf.
+Group work from the Programming Languages class. Description is in CMPT 341 — Homework 4.pdf.
 
 To run:
 jFlex/bin/jflex algebra.jflex
