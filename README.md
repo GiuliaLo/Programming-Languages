@@ -23,12 +23,8 @@ The hardest part was figuring out the grammar for the parser (jcup file), especi
 Working on this project in a group wasn't easy because after the initial brainstorming session where we worked together to decide on the tokens and discussed ideas for the grammar, there wasn't a good way to split the work between us because of how closely dependent each part is to the others, so there was ultimately one person writing the code, even if the other two could make suggestions. I feel like we were able to work well together anyway, and everyone made valuable contributions.
 
 College-wide learning goals reached with this assignment:
-
--Collaboration
-
++ Collaboration
 
 Computer science program learning goals:
-
--To acquire significant project experience working both individually and in a group setting
-
--To develop effective problem solving skills.
++ To acquire significant project experience working both individually and in a group setting
++ To develop effective problem solving skills.
